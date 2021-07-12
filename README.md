@@ -1,8 +1,4 @@
-# Euller Delivery
-
-Codando um site delivery numa tarde agradável de front end. :)
-
-Baseado no [BFB](https://github.com/cmtedamacena).
+# Restaurant Delivery
 
 ![Screenshot](Home.png)
 
@@ -15,5 +11,3 @@ Baseado no [BFB](https://github.com/cmtedamacena).
 | `npm run build` | Faz build do site           | Resultado na pasta `dist`      |
 
 ## Licença
-
-Este projeto usa a licença WTFPL. Consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.

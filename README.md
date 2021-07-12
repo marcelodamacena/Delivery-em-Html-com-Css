@@ -4,6 +4,8 @@ Codando um site delivery numa tarde agradável de front end. :)
 
 Baseado no [BFB](https://github.com/cmtedamacena).
 
+![Screenshot](Home.png)
+
 ## Comandos
 
 | Comando         | O que faz?                  | Observação                     |

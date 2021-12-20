@@ -1,0 +1,51 @@
+.imagemtopo{
+    text-align: center;
+}
+.titulo-centralizado{
+    text-align: center;
+    font-size: 34;
+    font-weight: 800;
+    font-family: fantasy;
+}
+.titulo-esquerda{
+    padding-left: 20px;
+    font-size: 43px;
+    font-weight: 800;
+    font-family: fantasy;
+}
+#banner{
+    width: 200px;
+    border-radius: 7%;
+}
+.principal{
+    background: rgb(238, 236, 236);
+    text-align: center;
+    margin: 40px;
+}
+p {
+    font-size: 12px;
+}
+#missao{
+    font-size: 30px;
+}
+em strong{
+    color:#11ff11;
+}
+.itens{
+    font-style: italic;
+    font-weight: 300;
+}
+.beneficios{
+    font-size: 25px;
+    background:rgb(226, 225, 225);
+    padding:20px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+}
+.imagemrodape{
+    width: 100px;
+    height: 100px;
+
+}
